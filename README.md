@@ -27,14 +27,6 @@ npm install
 npm run dev
 ```
 
-### 3. Generate Mock Data (Optional)
-
-If you need to regenerate the product list:
-
-```bash
-node generate_products.js
-```
-
 ---
 
 _Created for the C4 Technical Task._
